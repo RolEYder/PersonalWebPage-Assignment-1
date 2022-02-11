@@ -1,5 +1,9 @@
 
 # Rogger's Web App
+Rogger García Díaz <br>
+Mat. 2020-9618 <br>
+Email: 20209618@itla.edu.do <br>
+
 ### First Web Programming Assignment  (HTML Static Web App)
 
 This basic-static HTML web app was developed using HTML, CSS, and JS (this one to apply a typing effect in a principal header title) as part of my first web programming appointment. To see the webpage running, you should click [here](https://personal-webpage-assigment-one.herokuapp.com/) to see a previsualization.
